@@ -1,0 +1,7 @@
+openai
+tqdm
+python-dotenv
+fire
+pandas
+requests
+datasets
